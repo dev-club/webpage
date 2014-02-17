@@ -4,6 +4,7 @@ webpage
 The Dev Club's web page
 
 Cheatsheet:
+
 *make a local repo (git init)
 *git remote add origin (then the https url on the right)
 *git pull origin master
